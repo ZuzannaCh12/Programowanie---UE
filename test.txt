@@ -1,3 +1,4 @@
 Wspolna wersja po rozwiazaniu konfliktu z galezi test i test_2
 Linia 1
 Linia 2
+Linia 3
