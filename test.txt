@@ -1,1 +1,1 @@
-Moja ostateczna wersja na test
+Wspolna wersja po rozwiazaniu konfliktu z galezi test i test_2
