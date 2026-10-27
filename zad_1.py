@@ -1,8 +1,6 @@
-def print_names(names: list) -> None:
-    for name in names:
-        print(name)
+def greet(name: str, surname: str) -> str:
+    return f"Cześć {name} {surname}!"
 
 
-# Przykładowe wywołanie funkcji
-imiona = ["Małgorzata", "Wojciech", "Zuzanna", "Jagoda", "Karol"]
-print_names(imiona)
+welcome_message: str = greet("Zuzanna", "Chmielewska")
+print(welcome_message)

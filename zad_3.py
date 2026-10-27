@@ -1,8 +1,11 @@
-def print_even_numbers(numbers) -> None:
-    for num in numbers:
-        if num % 2 == 0:
-            print(num)
+def is_even(number: int) -> bool:
+    return number % 2 == 0
 
 
-# Wywołanie z wykorzystaniem funkcji range(10)
-print_even_numbers(range(10))
+check_num: int = 8
+is_num_even: bool = is_even(check_num)
+
+if is_num_even:
+    print("Liczba parzysta")
+else:
+    print("Liczba nieparzysta")
