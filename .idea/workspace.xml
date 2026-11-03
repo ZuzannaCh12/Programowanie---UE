@@ -34,6 +34,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_utils.py.executor": "Run",
+    "Python.consumer.executor": "Run",
+    "Python.producer.executor": "Run",
     "Python.utils.executor": "Run",
     "Python.zad_1.executor": "Run",
     "Python.zad_2.executor": "Run",
@@ -45,7 +47,7 @@
     "Python.zad_8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "unit__tests",
+    "git-widget-placeholder": "queues__on__files",
     "last_opened_file_path": "/Users/zuzanna/Programowanie---UE",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
